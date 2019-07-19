@@ -1,0 +1,4 @@
+# ignore generated checkpoint files,
+*.ipynb_checkpoints/
+# except foo.html which is maintained by hand
+# Ex: !foo.html
