@@ -17,7 +17,7 @@ NEWSPIDER_MODULE = 'indeed.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'indeed (+http://www.yourdomain.com)'
-USER_AGENT = '/'
+#USER_AGENT = '/'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 

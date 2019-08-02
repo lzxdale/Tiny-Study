@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
-
+from ..items import IndeedItem
 
 class NewYorkInternSpider(scrapy.Spider):
     name = 'new_york_intern'
@@ -11,10 +11,18 @@ class NewYorkInternSpider(scrapy.Spider):
     def parse(self, response):
         title_list = response.xpath('.//div[@class="title"]/a/@title').extract()
         company_list = clear_company(response.xpath('.//div[@class="sjcl"]//span[@class = "company"]//text()').extract())
-        location = response.xpath("//span[@class = 'location']/text()").extract()
-        links = response.xpath("//div[@class = 'title']/a/@href").extract()
-        for i, j, l, lk in zip(title_list,company_list, location, links):
-            print(i," : ", j)
+        location = response.xpath(".//span[@class = 'location']/text()").extract()
+        links = response.xpath(".//div[@class = 'title']/a/@href").extract()
+        publish_date = response.xpath(".//span[@class = 'date']/text()").extract()
+        IItem = IndeedItem()
+        for i, j, l, lk, d in zip(title_list,company_list, location, links, publish_date):
+            IItem['title'] = i
+            IItem['company'] = j
+            IItem['location'] = l
+            IItem['link'] = 'https://www.indeed.com'+lk
+            IItem['publish_date'] = d
+            yield IItem
+            print(i," : ", j,' date: ',d)
             print(l, ' : ', 'https://www.indeed.com'+lk)
             print('--'*5)
         next_pages = response.xpath(".//div[@class='pagination']//span[contains(text(),'Next')]/../../@href").get()
