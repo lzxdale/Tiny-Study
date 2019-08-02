@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5bb96728-3151-410e-b73e-4cd69475c213" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pexels.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/020beab71163a99d1344cb9dcf9878b1dcab2a29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/0fc1c98dcf434ba5d772f80d6b85d654e08ba17f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/16c6590d30b2d9a081d55bdcf36e0c44d4058452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/17e9ef53e52ae8c9222c68242445b8e98fa4da4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/1dca72b6d0df6456813fe1969a92545ca8ee1e96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/1ecde3e194ae442acb1d7d0f2e3c6f2f7b1c1bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/20e8021532c38d29211639ca645c4fa119389a8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/241487b43e75af7bdcfeb42e3b6ae09694bb993c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/25611bca8e71a2a1edd6432156a643edc95e8a56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/25724091d7ddc49b1c42b15675686dcb1ce56848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/27cfc6662f6a32d60f2f3bb1bfc35e633204f24d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/2a0b1d71afb99878061ad3d4d84c5268985f831d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/2ae00305926f4a9f3ae55362299d82474704d6f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/3d82f7ec93999c21132974a804e3c2f8593bf3e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/3ed77cda17b8e0616f52d0f80ade26ac9938f1e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/3f46e51895954d980854d3354838e7b09d6e5d5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/436fc0f877ac104e7b7795cf7e43c110e0ab2e42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/4635472f55169d370ece87b88b5a86bbc2ce21b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/4c1b51912f7e29b0e9d5251f44455b7589e167c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/541f39674de1cfaa52a61e03c51c2d0f19469c2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/5e76f59960a6090a1cbfc5187e5ae67ce0e03529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/5f5b25e91d0fc2ab5db2da6c5a55a0bc4f829277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/5fe8e3d05ff0ed5f8533c6a602020d4edb10019c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/6920f56944b8afcdb3782dd95a53f4ec6cfc27c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/6c2007252a5ad16d8fb25a69ec0e3a9340f4231e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/6c58a472b3f62810bbe35e44a23d838ba725d2d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/777a3aa4149cd93e55d20d651cf47b218b9d533d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/891e9bb4f05d24574056870db6ed9ead4ecbf922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/8aab2d7d746ecd69bbb7f6f4c7efb078344fcfeb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/8ac5e7fe82c1960004562e337efd7b659869ea74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/96da788561be642a1bfb59ee12761ff0e601ab04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/97832e81a5ec7aa379ee7c0468e303cd6f55b692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/9ca149c8e067ceb33f27effa321b9c4373c1cb1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/9ce12f7a94d5af4b71b4b92d19fda9a48daae811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/9f5a6a2c8047f852fad0595c0629f2f500526960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/a06e5062e1d803c082dc676171979a06054c1294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/a28fc5a40e04226d6c9a8c7b1b8f7d78de563260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/a3321cc9e1481746d50acaf01f23a553156b43e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/a7a837de796eb8ed19c068f303cf4db9d67cb52a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/a7cf349b5ed83363e857221d198ad50c395f732e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/ab222f59ee8b8125dc0883347c670486ced0c976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/adb62a87db4a71916ba9823525f6bca49c3f9049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/af6e3541d11ef539ddcef5b06fc7648658824293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b058787394362478fea51d3e1402cadce797aa26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b1fb8ec700b89de973b54c0346fc343846a9749d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b2c1a5fe3c4a6af968bd5c30d7becd0d72fb02d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b5636247c2208e9271dbd2aa8fc1d8ba2ae39ab9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b83ac479ec82b5f4cbb8f2d51e989720fea5a25b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/b944d100c34205d56084bca5d6114ffdf0af5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/d198b4c0a395c107eb0c29cce2035df56967c008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/e3dcfdd4ad963487160f7645203f2198fa89d730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/e41fc6002b6c465952bfe44d84dea944095d31d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/f80736c9e2400056e3bfd290e3f5c8c5d7722d5d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full/faa577367bffef4b2d60812d3e91312d45069b2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/1dca72b6d0df6456813fe1969a92545ca8ee1e96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/1ecde3e194ae442acb1d7d0f2e3c6f2f7b1c1bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/20e8021532c38d29211639ca645c4fa119389a8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/262873fbd713d45cd72895588aa5855e5e1ecc5c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/2a0b1d71afb99878061ad3d4d84c5268985f831d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/2b56fabb3b196ddb1caee2e8f52ddd1b91c52070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/3788f6a05afdb38772212be0feb7993907ed5671.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/3d82f7ec93999c21132974a804e3c2f8593bf3e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/3ed77cda17b8e0616f52d0f80ade26ac9938f1e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/466a14fce752203923e0508d088268e082ee2b52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/47611fb33b8ccf69685ca1fabc80665f1c6f7cdd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/4c1b51912f7e29b0e9d5251f44455b7589e167c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/5e76f59960a6090a1cbfc5187e5ae67ce0e03529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/6925619e6d234196310d777c2b49e3acacb1f8c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/777a3aa4149cd93e55d20d651cf47b218b9d533d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/a06e5062e1d803c082dc676171979a06054c1294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/a7a837de796eb8ed19c068f303cf4db9d67cb52a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/a7cf349b5ed83363e857221d198ad50c395f732e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/ab222f59ee8b8125dc0883347c670486ced0c976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/ab8333b18a7b131a629765a369aa4790b5c27080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/b058787394362478fea51d3e1402cadce797aa26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/b1fb8ec700b89de973b54c0346fc343846a9749d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/b944d100c34205d56084bca5d6114ffdf0af5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/c39be1acbb94983ea8a4c5e590660414a0be554b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/c9d1425a7701cfb7e4ecf7d2edc99760243294fc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/d198b4c0a395c107eb0c29cce2035df56967c008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/d51c8dfa1ebb3fd48907d162eef071f1ca5db0c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/e3dcfdd4ad963487160f7645203f2198fa89d730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/e41fc6002b6c465952bfe44d84dea944095d31d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_1/f80736c9e2400056e3bfd290e3f5c8c5d7722d5d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/02b935490596d13df48113ec67a8392c885320ba.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/02f1f8fa3360afa99a6dddc5ac218115ea66ccc4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/16c6590d30b2d9a081d55bdcf36e0c44d4058452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/2a0b1d71afb99878061ad3d4d84c5268985f831d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/6abe76502dd6ad05526b509a4b96d41d20f336eb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/718af604a8d5d40408b631c44fb3cdd78343cea2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/88b3dd49bf130b070302009efd97f951c84f9e95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/b058787394362478fea51d3e1402cadce797aa26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/b944d100c34205d56084bca5d6114ffdf0af5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/d37f23a199bbc0105a22d088b43e2cde4c385e89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/d646b35dffc03c55ccfed231ed98f3d2b3e66e1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/full_2/ded3e49b78436bd03b6826d86b618647b6652c48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/020beab71163a99d1344cb9dcf9878b1dcab2a29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/0fc1c98dcf434ba5d772f80d6b85d654e08ba17f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/16c6590d30b2d9a081d55bdcf36e0c44d4058452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/17e9ef53e52ae8c9222c68242445b8e98fa4da4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/1dca72b6d0df6456813fe1969a92545ca8ee1e96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/1ecde3e194ae442acb1d7d0f2e3c6f2f7b1c1bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/20e8021532c38d29211639ca645c4fa119389a8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/241487b43e75af7bdcfeb42e3b6ae09694bb993c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/25611bca8e71a2a1edd6432156a643edc95e8a56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/25724091d7ddc49b1c42b15675686dcb1ce56848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/27cfc6662f6a32d60f2f3bb1bfc35e633204f24d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/2a0b1d71afb99878061ad3d4d84c5268985f831d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/2ae00305926f4a9f3ae55362299d82474704d6f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/3d82f7ec93999c21132974a804e3c2f8593bf3e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/3ed77cda17b8e0616f52d0f80ade26ac9938f1e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/3f46e51895954d980854d3354838e7b09d6e5d5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/436fc0f877ac104e7b7795cf7e43c110e0ab2e42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/4635472f55169d370ece87b88b5a86bbc2ce21b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/4c1b51912f7e29b0e9d5251f44455b7589e167c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/541f39674de1cfaa52a61e03c51c2d0f19469c2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/5e76f59960a6090a1cbfc5187e5ae67ce0e03529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/5f5b25e91d0fc2ab5db2da6c5a55a0bc4f829277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/5fe8e3d05ff0ed5f8533c6a602020d4edb10019c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/6920f56944b8afcdb3782dd95a53f4ec6cfc27c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/6c2007252a5ad16d8fb25a69ec0e3a9340f4231e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/6c58a472b3f62810bbe35e44a23d838ba725d2d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/777a3aa4149cd93e55d20d651cf47b218b9d533d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/891e9bb4f05d24574056870db6ed9ead4ecbf922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/8aab2d7d746ecd69bbb7f6f4c7efb078344fcfeb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/8ac5e7fe82c1960004562e337efd7b659869ea74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/96da788561be642a1bfb59ee12761ff0e601ab04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/97832e81a5ec7aa379ee7c0468e303cd6f55b692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/9ca149c8e067ceb33f27effa321b9c4373c1cb1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/9ce12f7a94d5af4b71b4b92d19fda9a48daae811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/9f5a6a2c8047f852fad0595c0629f2f500526960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/a06e5062e1d803c082dc676171979a06054c1294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/a28fc5a40e04226d6c9a8c7b1b8f7d78de563260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/a3321cc9e1481746d50acaf01f23a553156b43e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/a7a837de796eb8ed19c068f303cf4db9d67cb52a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/a7cf349b5ed83363e857221d198ad50c395f732e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/ab222f59ee8b8125dc0883347c670486ced0c976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/adb62a87db4a71916ba9823525f6bca49c3f9049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/af6e3541d11ef539ddcef5b06fc7648658824293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b058787394362478fea51d3e1402cadce797aa26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b1fb8ec700b89de973b54c0346fc343846a9749d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b2c1a5fe3c4a6af968bd5c30d7becd0d72fb02d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b5636247c2208e9271dbd2aa8fc1d8ba2ae39ab9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b83ac479ec82b5f4cbb8f2d51e989720fea5a25b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/b944d100c34205d56084bca5d6114ffdf0af5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/d198b4c0a395c107eb0c29cce2035df56967c008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/e3dcfdd4ad963487160f7645203f2198fa89d730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/e41fc6002b6c465952bfe44d84dea944095d31d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/f80736c9e2400056e3bfd290e3f5c8c5d7722d5d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/big/faa577367bffef4b2d60812d3e91312d45069b2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/020beab71163a99d1344cb9dcf9878b1dcab2a29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/0fc1c98dcf434ba5d772f80d6b85d654e08ba17f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/16c6590d30b2d9a081d55bdcf36e0c44d4058452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/17e9ef53e52ae8c9222c68242445b8e98fa4da4c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/1dca72b6d0df6456813fe1969a92545ca8ee1e96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/1ecde3e194ae442acb1d7d0f2e3c6f2f7b1c1bb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/20e8021532c38d29211639ca645c4fa119389a8d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/241487b43e75af7bdcfeb42e3b6ae09694bb993c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/25611bca8e71a2a1edd6432156a643edc95e8a56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/25724091d7ddc49b1c42b15675686dcb1ce56848.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/27cfc6662f6a32d60f2f3bb1bfc35e633204f24d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/2a0b1d71afb99878061ad3d4d84c5268985f831d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/2ae00305926f4a9f3ae55362299d82474704d6f9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/3d82f7ec93999c21132974a804e3c2f8593bf3e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/3ed77cda17b8e0616f52d0f80ade26ac9938f1e4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/3f46e51895954d980854d3354838e7b09d6e5d5f.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/436fc0f877ac104e7b7795cf7e43c110e0ab2e42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/4635472f55169d370ece87b88b5a86bbc2ce21b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/4c1b51912f7e29b0e9d5251f44455b7589e167c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/541f39674de1cfaa52a61e03c51c2d0f19469c2c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/5e76f59960a6090a1cbfc5187e5ae67ce0e03529.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/5f5b25e91d0fc2ab5db2da6c5a55a0bc4f829277.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/5fe8e3d05ff0ed5f8533c6a602020d4edb10019c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/6920f56944b8afcdb3782dd95a53f4ec6cfc27c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/6c2007252a5ad16d8fb25a69ec0e3a9340f4231e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/6c58a472b3f62810bbe35e44a23d838ba725d2d6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/777a3aa4149cd93e55d20d651cf47b218b9d533d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/891e9bb4f05d24574056870db6ed9ead4ecbf922.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/8aab2d7d746ecd69bbb7f6f4c7efb078344fcfeb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/8ac5e7fe82c1960004562e337efd7b659869ea74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/96da788561be642a1bfb59ee12761ff0e601ab04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/97832e81a5ec7aa379ee7c0468e303cd6f55b692.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/9ca149c8e067ceb33f27effa321b9c4373c1cb1b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/9ce12f7a94d5af4b71b4b92d19fda9a48daae811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/9f5a6a2c8047f852fad0595c0629f2f500526960.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/a06e5062e1d803c082dc676171979a06054c1294.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/a28fc5a40e04226d6c9a8c7b1b8f7d78de563260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/a3321cc9e1481746d50acaf01f23a553156b43e8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/a7a837de796eb8ed19c068f303cf4db9d67cb52a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/a7cf349b5ed83363e857221d198ad50c395f732e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/ab222f59ee8b8125dc0883347c670486ced0c976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/adb62a87db4a71916ba9823525f6bca49c3f9049.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/af6e3541d11ef539ddcef5b06fc7648658824293.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b058787394362478fea51d3e1402cadce797aa26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b1fb8ec700b89de973b54c0346fc343846a9749d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b2c1a5fe3c4a6af968bd5c30d7becd0d72fb02d9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b5636247c2208e9271dbd2aa8fc1d8ba2ae39ab9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b83ac479ec82b5f4cbb8f2d51e989720fea5a25b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/b944d100c34205d56084bca5d6114ffdf0af5f16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/d198b4c0a395c107eb0c29cce2035df56967c008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/e3dcfdd4ad963487160f7645203f2198fa89d730.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/e41fc6002b6c465952bfe44d84dea944095d31d0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/f80736c9e2400056e3bfd290e3f5c8c5d7722d5d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/thumbs/small/faa577367bffef4b2d60812d3e91312d45069b2a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/020beab71163a99d1344cb9dcf9878b1dcab2a29.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/16c6590d30b2d9a081d55bdcf36e0c44d4058452.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/1dca72b6d0df6456813fe1969a92545ca8ee1e96.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/1ecde3e194ae442acb1d7d0f2e3c6f2f7b1c1bb3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/20e8021532c38d29211639ca645c4fa119389a8d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/241487b43e75af7bdcfeb42e3b6ae09694bb993c.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/25611bca8e71a2a1edd6432156a643edc95e8a56.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/25724091d7ddc49b1c42b15675686dcb1ce56848.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/2ae00305926f4a9f3ae55362299d82474704d6f9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/2b56fabb3b196ddb1caee2e8f52ddd1b91c52070.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/2cf7e6789eae4f8f5ad4dff4ab970e7ac5a40dd9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/3d82f7ec93999c21132974a804e3c2f8593bf3e4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/436fc0f877ac104e7b7795cf7e43c110e0ab2e42.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/4635472f55169d370ece87b88b5a86bbc2ce21b6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/466a14fce752203923e0508d088268e082ee2b52.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/62f949d0ef67cf543adf283f8b6414cccfacc1d4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/6920f56944b8afcdb3782dd95a53f4ec6cfc27c9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/6abe76502dd6ad05526b509a4b96d41d20f336eb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/6c117480fc46091283048fbaed6d4747118ac8be.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/6c58a472b3f62810bbe35e44a23d838ba725d2d6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/718af604a8d5d40408b631c44fb3cdd78343cea2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/777a3aa4149cd93e55d20d651cf47b218b9d533d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/7e7890a7b00deb3de28e51e722ed96a229ba362a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/891e9bb4f05d24574056870db6ed9ead4ecbf922.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/89abd4f39473a059cfbfc0a4901df6c1fd95397b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/9ca149c8e067ceb33f27effa321b9c4373c1cb1b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/9ce12f7a94d5af4b71b4b92d19fda9a48daae811.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/9d9b1450970df0be9a0dd0d5b3d174a296e3270e.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/9e9b3f57226592435e3ec7e4173c8dba0294eac7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/a06e5062e1d803c082dc676171979a06054c1294.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/a28fc5a40e04226d6c9a8c7b1b8f7d78de563260.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/a3321cc9e1481746d50acaf01f23a553156b43e8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/a7a837de796eb8ed19c068f303cf4db9d67cb52a.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/ab222f59ee8b8125dc0883347c670486ced0c976.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/adb62a87db4a71916ba9823525f6bca49c3f9049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/af6e3541d11ef539ddcef5b06fc7648658824293.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/b058787394362478fea51d3e1402cadce797aa26.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/b1fb8ec700b89de973b54c0346fc343846a9749d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/b5636247c2208e9271dbd2aa8fc1d8ba2ae39ab9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/b83ac479ec82b5f4cbb8f2d51e989720fea5a25b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/d37f23a199bbc0105a22d088b43e2cde4c385e89.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/d646b35dffc03c55ccfed231ed98f3d2b3e66e1b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_file/full/f80736c9e2400056e3bfd290e3f5c8c5d7722d5d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pexels/spiders/pexels_crawl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/rental_sql.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/rental_sql.sqlite" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="974829364">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1115" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1115" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pexels/spiders/pexels_crawl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pexels/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <marker date="1564761232460" expanded="true" signature="417:426" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scrapy/pipelines/images.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-796">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pexels/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pexels/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pexels/items.py" />
+        <option value="$PROJECT_DIR$/pexels/spiders/pexels_crawl.py" />
+        <option value="$PROJECT_DIR$/pexels/settings.py" />
+        <option value="$PROJECT_DIR$/pexels/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="40" />
+    <option name="y" value="23" />
+    <option name="width" value="1400" />
+    <option name="height" value="801" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pexels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pexels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pexels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pexels" type="462c0819:PsiDirectoryNode" />
+              <item name="pexels" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pexels" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pexels" type="462c0819:PsiDirectoryNode" />
+              <item name="pexels" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bb96728-3151-410e-b73e-4cd69475c213" name="Default Changelist" comment="" />
+      <created>1564755888975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564755888975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="40" y="23" width="1400" height="801" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.30042315" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scrapy/pipelines/files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="250" column="6" selection-start-line="250" selection-start-column="6" selection-end-line="250" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pexels/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pexels/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/scrapy/pipelines/images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-796">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pexels/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <marker date="1564761232460" expanded="true" signature="417:426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pexels/spiders/pexels_crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
