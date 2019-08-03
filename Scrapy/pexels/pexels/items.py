@@ -11,9 +11,8 @@ import scrapy
 class PexelsItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    # image_urls = scrapy.Field() # download url pic images
-    # images = scrapy.Field() # checking integrity of pic
-    file_urls = scrapy.Field()
-    files = scrapy.Field()
-
+     image_urls = scrapy.Field() # download url pic images
+     images = scrapy.Field() # checking integrity of pic
+    # file_urls = scrapy.Field()
+    # files = scrapy.Field()
     pass

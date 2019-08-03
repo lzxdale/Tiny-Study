@@ -19,8 +19,8 @@ class PexelsCrawlSpider(CrawlSpider):
 
     def parse_item(self, response):
         item = {}
-        #item['image_urls'] = response.xpath(".//img[contains(@srcset, 'http')]/@src").extract()
-        item['file_urls'] = response.xpath(".//img[contains(@srcset, 'http')]/@src").extract()
+        item['image_urls'] = response.xpath(".//img[contains(@srcset, 'http')]/@src").extract()
+        #item['file_urls'] = response.xpath(".//img[contains(@srcset, 'http')]/@src").extract()
         #item['domain_id'] = response.xpath('//input[@id="sid"]/@value').get()
         #item['name'] = response.xpath('//div[@id="name"]').get()
         #item['description'] = response.xpath('//div[@id="description"]').get()

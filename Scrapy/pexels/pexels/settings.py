@@ -65,13 +65,14 @@ DOWNLOAD_DELAY = 0.3
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    #'scrapy.pipelines.images.ImagesPipeline': 2, # scrapy own image pipeline, must be set
-    'scrapy.pipelines.files.FilesPipeline': 2,
+    #'scrapy.pipelines.images.ImagesPipeline': 3, # scrapy own image pipeline, must be set
+    #'scrapy.pipelines.files.FilesPipeline': 2,
     'pexels.pipelines.PexelsPipeline': 1, # this is in our own pipeline cleaning data/url
+    'pexels.pipelines.OverImgPipeline': 2,
 }
 
-#IMAGES_STORE = '/Users/linzexiang/Documents/GIT/Tiny-Study/Scrapy/pexels/img/'
-FILES_STORE = '/Users/linzexiang/Documents/GIT/Tiny-Study/Scrapy/pexels/img_file/'
+IMAGES_STORE = '/Users/linzexiang/Documents/GIT/Tiny-Study/Scrapy/pexels/img/'
+#FILES_STORE = '/Users/linzexiang/Documents/GIT/Tiny-Study/Scrapy/pexels/img_file/'
 
 #min height or width mean that if the pic is smaller than that, img will not be saved.
 IMAGES_MIN_HEIGHT = 1000
