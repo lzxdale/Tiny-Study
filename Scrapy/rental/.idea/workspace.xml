@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7182857e-cf85-4c37-8941-77146693ae85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indeed/indeed/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/indeed/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indeed/indeed/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/indeed/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indeed/indeed/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/indeed/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indeed/indeed/spiders/new_york_intern.py" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/indeed/spiders/new_york_intern.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rental/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rental/spiders/crawl_rental.py" beforeDir="false" afterPath="$PROJECT_DIR$/rental/spiders/crawl_rental.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rental_sql.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/rental_sql.sqlite" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,42 +63,43 @@
     <session id="-1482417291">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="839" />
+          <entry key="py" value="841" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="839" />
+          <entry key="Python" value="841" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rental/spiders/crawl_rental.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="50" />
+            <state relative-caret-position="150">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -103,10 +108,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rental/spiders/rental.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1564716210339" expanded="true" signature="81:86" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rental/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+            <state relative-caret-position="119">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="37" selection-end-column="3" />
               <folding>
                 <element signature="e#193#207#0" expanded="true" />
               </folding>
@@ -126,7 +144,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rental/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
+            <state relative-caret-position="-631">
               <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
             </state>
           </provider>
@@ -154,10 +172,10 @@
       <list>
         <option value="$PROJECT_DIR$/rental/items.py" />
         <option value="$PROJECT_DIR$/rental/pipelines.py" />
-        <option value="$PROJECT_DIR$/rental/spiders/rental.py" />
         <option value="$PROJECT_DIR$/rental/spiders/basic_exm.py" />
         <option value="$PROJECT_DIR$/rental/spiders/crawl_rental.py" />
         <option value="$PROJECT_DIR$/rental/settings.py" />
+        <option value="$PROJECT_DIR$/rental/spiders/rental.py" />
       </list>
     </option>
   </component>
@@ -168,8 +186,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="99" />
-    <option name="y" value="23" />
+    <option name="x" value="7" />
+    <option name="y" value="91" />
     <option name="width" value="1400" />
     <option name="height" value="801" />
   </component>
@@ -240,9 +258,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="99" y="23" width="1400" height="801" extended-state="0" />
+    <frame x="7" y="91" width="1400" height="801" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10309278" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111929305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,19 +305,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rental/spiders/rental.py">
+    <entry file="file://$PROJECT_DIR$/rental/spiders/crawl_rental.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="50" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="50" />
+        <state relative-caret-position="150">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rental/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/rental/spiders/rental.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
-            <element signature="e#193#207#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1564716210339" expanded="true" signature="81:86" ph="..." />
           </folding>
         </state>
       </provider>
@@ -312,17 +335,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rental/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
+        <state relative-caret-position="-631">
           <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rental/spiders/crawl_rental.py">
+    <entry file="file://$PROJECT_DIR$/rental/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="50" />
+        <state relative-caret-position="119">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="37" selection-end-column="3" />
           <folding>
-            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#193#207#0" expanded="true" />
           </folding>
         </state>
       </provider>

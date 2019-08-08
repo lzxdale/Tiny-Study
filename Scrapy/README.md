@@ -16,3 +16,6 @@ If the website is formate in a certain way, then crawl is good to use.
 Using only crawl template
 downloading pictures
 explore difference between file and images pipelines
+
+- learning middleware 
+changeing user-agent and ip-address to aviod anti-crawl. 

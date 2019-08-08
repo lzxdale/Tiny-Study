@@ -18,6 +18,7 @@
     <session id="-334628344">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -34,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="751" />
+          <entry key="py" value="752" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="751" />
+          <entry key="Python" value="752" />
         </counts>
       </usages-collector>
     </session>
@@ -70,14 +71,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/middleware_spbeen/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+            <state relative-caret-position="572">
+              <caret line="129" column="76" selection-start-line="129" selection-start-column="76" selection-end-line="129" selection-end-column="76" />
               <folding>
                 <element signature="e#169#195#0" expanded="true" />
                 <element signature="e#250#1912#0" />
                 <element signature="e#1971#3614#0" />
-                <marker date="1565190121186" expanded="true" signature="3759:3972" ph="..." />
-                <marker date="1565190121186" expanded="true" signature="4034:4035" ph="..." />
+                <marker date="1565190145733" expanded="true" signature="3759:3972" ph="..." />
+                <marker date="1565190145733" expanded="true" signature="4034:4035" ph="..." />
               </folding>
             </state>
           </provider>
@@ -238,7 +239,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="35" width="1400" height="801" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
@@ -251,7 +251,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32863188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32863188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -328,14 +328,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/middleware_spbeen/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+        <state relative-caret-position="572">
+          <caret line="129" column="76" selection-start-line="129" selection-start-column="76" selection-end-line="129" selection-end-column="76" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
             <element signature="e#250#1912#0" />
             <element signature="e#1971#3614#0" />
-            <marker date="1565190121186" expanded="true" signature="3759:3972" ph="..." />
-            <marker date="1565190121186" expanded="true" signature="4034:4035" ph="..." />
+            <marker date="1565190145733" expanded="true" signature="3759:3972" ph="..." />
+            <marker date="1565190145733" expanded="true" signature="4034:4035" ph="..." />
           </folding>
         </state>
       </provider>
