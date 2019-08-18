@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b42a953-190c-4106-bc7c-00ee2a1adb74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../indeed/.idea/indeed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/.idea/indeed.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../indeed/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../indeed/ny_intern_csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/ny_intern_csv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/middleware_spbeen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/middleware_spbeen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middleware_spbeen/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware_spbeen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware_spbeen/spiders/spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/spiders/spbeen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proxy_crawl/proxy_crawl/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../proxy_crawl/proxy_crawl/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../proxy_crawl/proxy_file.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../proxy_crawl/proxy_file.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +37,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1PLznRZIuWCngPvN08gkIA4C8yI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../indeed" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../proxy_crawl" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,12 +114,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/middleware_spbeen/middlewares.py</url>
-          <line>12</line>
+          <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

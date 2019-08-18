@@ -4,10 +4,15 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+import random
 
 from scrapy import signals
 from faker import Faker
 from scrapy.downloadermiddlewares.useragent import UserAgentMiddleware
+import pandas as pd
+from scrapy.downloadermiddlewares.httpproxy import HttpProxyMiddleware
+import time
+import sys
 
 
 class MiddlewareSpbeenSpiderMiddleware(object):
@@ -110,10 +115,13 @@ class MiddlewareSpbeenRandomUseragent(object):
     def __init__(self):
         self.fake = Faker()
 
+
     def process_request(self, request, spider):
         #print(self.fake.user_agent())
         request.headers.setdefault('User-Agent',self.fake.user_agent())
 
+
+# inherit scrapy original middleware
 
 class MiddlewareSpbeenRandomUseragent2(UserAgentMiddleware):
     def __init__(self, user_agent='Scrapy'):
@@ -128,3 +136,18 @@ class MiddlewareSpbeenRandomUseragent2(UserAgentMiddleware):
 
     def process_request(self, request, spider):
         request.headers.setdefault('User-Agent', self.user_agent.user_agent())
+
+class MiddlewareSpbeenRandomProxyIPPool(object):
+    def __init__(self, proxy):
+        print("init_proxy")
+        self.proxy = proxy
+
+    @classmethod
+    def from_crawler(cls, crawler): #each time actived, scrapy will atuo load this func
+        return cls(proxy = crawler.settings.get('PROXY_IP_POOL'))
+
+    def process_request(self, request, spider):
+        print("http://" + random.choice(self.proxy))
+        #print(self.proxy)
+        request.meta['proxy'] ="http://" + random.choice(self.proxy)
+

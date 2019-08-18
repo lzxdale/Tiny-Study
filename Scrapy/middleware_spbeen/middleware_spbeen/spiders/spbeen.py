@@ -11,7 +11,7 @@ class SpbeenSpider(scrapy.Spider):
 
 
     def start_requests(self):  # make spider keep requesting for 10 times
-        for url in range(0,10):
+        for url in range(0,3):
             yield scrapy.Request(self.start_url, dont_filter=True)
 
     def parse(self, response):

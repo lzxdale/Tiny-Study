@@ -55,9 +55,10 @@ ROBOTSTXT_OBEY = True
 DOWNLOADER_MIDDLEWARES = {
    #'middleware_spbeen.middlewares.MiddlewareSpbeenDownloaderMiddleware': 543,
     #'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None, # or change below to lower number
-    #'middleware_spbeen.middlewares.MiddlewareSpbeenRandomUseragent': 100 # lower number have higher proitiy
-    'middleware_spbeen.middlewares.MiddlewareSpbeenRandomUseragent2': 543,
-    'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    'middleware_spbeen.middlewares.MiddlewareSpbeenRandomUseragent': 100, # lower number have higher proitiy
+    #'middleware_spbeen.middlewares.MiddlewareSpbeenRandomUseragent2': 543,
+    #'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None,
+    'middleware_spbeen.middlewares.MiddlewareSpbeenRandomProxyIPPool': 600,
 }
 
 # Enable or disable extensions
@@ -92,3 +93,13 @@ DOWNLOADER_MIDDLEWARES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+PROXY_IP_POOL = ['54.39.98.137:80',
+'51.79.65.157:3128',
+'54.39.53.104:3128',
+'165.22.238.100:8080',
+'165.22.33.143:8080',
+'67.205.171.99:80',
+'165.22.187.251:8080',
+'67.205.172.239:3128',
+'159.65.181.224:3128']
