@@ -2,6 +2,7 @@ from django.db import models
 from django.utils.timezone import now
 import pandas as pd
 import os
+import requests
 
 class ProxyIPTable(models.Model):
     ip = models.CharField(max_length=64)
@@ -24,10 +25,24 @@ class ProxyIPTable(models.Model):
         return True
 
     def __str__(self):
-        return "IP:{} | port:{} | Other:{}".format(self.ip,self.port,self.other)
+        return "[{}] | IP:{} | port:{} | Other:{} | DateTime:{}".format(self.valid, self.ip,self.port,self.other, self.create_time)
 
     def check_ip_valid(self):
         pass
+    @classmethod
+    def class_check_ip_valid(cls, ipjob):
+        proxies = {'http':"http//{}:{}".format(ipjob.ip, ipjob.port), 'https':"https//{}:{}".format(ipjob.ip, ipjob.port)}
+        url ='http://www.spbeen.com/tool/request_info/'
+        try:
+            resp = requests.get(url,proxies=proxies, timeout=3)
+            if ipjob.other not in resp.text:
+                ipjob.valid = False
+                ipjob.save()
+                pass
+        except:
+            ipjob.valid = False
+            ipjob.save()
+
 
     def export_proxy(self):
         pass
