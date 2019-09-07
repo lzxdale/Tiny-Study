@@ -11,6 +11,9 @@
       <change beforePath="$PROJECT_DIR$/../../middleware_spbeen/middleware_spbeen/spiders/spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../middleware_spbeen/middleware_spbeen/spiders/spbeen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pexels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pexels/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spiders/spy.py" beforeDir="false" afterPath="$PROJECT_DIR$/spiders/spy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Selenium/Selenium L1-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Selenium/Selenium L1-2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../django/manageproxyip/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../django/manageproxyip/db.sqlite3" afterDir="false" />
     </list>
@@ -50,7 +53,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567644771341</updated>
-      <workItem from="1567644777489" duration="737000" />
+      <workItem from="1567644777489" duration="785000" />
+      <workItem from="1567816535075" duration="5080000" />
     </task>
     <servers />
   </component>
@@ -62,7 +66,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
