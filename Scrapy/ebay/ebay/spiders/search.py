@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from ..items import EbayItem
+import csv
 
 
 # Lenovo Thinkpad T-series
@@ -17,7 +18,13 @@ the_list = ['Lenovo Thinkpad T',
                 'HP Elitebook']
 years = ['2014', '2015', '2016']
 urls = []
-'https://www.ebay.com/sch/i.html?&_nkw={}&_pgn=1'
+
+with open('ebay_csv.csv', 'w') as f:  # having a+ will not rewrite the file before.
+    writer = csv.writer(f)
+    writer.writerow(('year', 'brand', 'name', 'price', 'sc_info'))
+    f.close()
+
+
 for year in years:
     for model in the_list:
         tmp = year+' '+model
@@ -38,14 +45,18 @@ class SearchSpider(scrapy.Spider):
         name_list = response.xpath('//a[@class="s-item__link"]/h3/text()').extract()
         price_list = response.xpath('//div[@class="s-item__details clearfix"]/div[1]/span/text()').extract()
         second_info = response.xpath('//span[@class="SECONDARY_INFO"]/text()').extract()
+        item['year'] = response.request.url.split('=')[1].split('+')[0]
+        item['brand'] = response.request.url.split('=')[1].split('+')[1]
         for name, price, sc_info in zip(name_list,price_list, second_info):
-            if float(''.join(price[1].split(','))) > 60 and ( sc_info == 'Refurbished' or sc_info == 'Pre-Owned'):
-                item['name'] = name
-                item['price'] = price
-                item['sc_info'] = sc_info
-                yield item
-        if response.request.url != next_page[0]:
-            print(next_page)
-            yield scrapy.Request(next_page[0], callback=self.parse)
+            if float(''.join(price[1:].split(','))) > 60:
+                if sc_info == 'Refurbished' or sc_info == 'Pre-Owned':
+                    item['name'] = name
+                    item['price'] = price
+                    item['sc_info'] = sc_info
+                    yield item
+        if next_page:
+            if response.request.url != next_page[0]:
+                print(next_page)
+                yield scrapy.Request(next_page[0], callback=self.parse)
 
 

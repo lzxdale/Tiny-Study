@@ -14,5 +14,5 @@ class EbayPipeline(object):
         print(spider.name, 'pipelines')  # print current crawler(which is getting data)
         with open('ebay_csv.csv', 'a+') as f:  # having a+ will not rewrite the file before.
             writer = csv.writer(f)
-            writer.writerow((item['name'], item['price'], item['sc_info']))
+            writer.writerow((item['year'], item['brand'], item['name'], item['price'], item['sc_info']))
         return item
