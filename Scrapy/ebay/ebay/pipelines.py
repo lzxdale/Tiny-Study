@@ -15,4 +15,5 @@ class EbayPipeline(object):
         with open('ebay_csv.csv', 'a+') as f:  # having a+ will not rewrite the file before.
             writer = csv.writer(f)
             writer.writerow((item['name'], item['price'], item['sc_info']))
+            f.close()
         return item

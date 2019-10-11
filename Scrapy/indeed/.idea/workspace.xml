@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbaa2b4e-ba2c-4382-94da-c9b98a13ac83" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/indeed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/indeed.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ny_intern_csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ny_intern_csv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/.idea/middleware_spbeen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/.idea/middleware_spbeen.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../middleware_spbeen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/good_ip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/good_ip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/run_scrapy spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/run_scrapy spbeen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/spiders/ipcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/spiders/ipcheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/spiders/spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/../middleware_spbeen/middleware_spbeen/spiders/spbeen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../django/manageproxyip/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../django/manageproxyip/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,19 +38,8 @@
     <expand />
     <select />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>user</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectId" id="1PO8YEiaElIKGG0YrDM0YMSBeJi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -109,6 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1564670807006</updated>
+      <workItem from="1568337808322" duration="656000" />
     </task>
     <servers />
   </component>

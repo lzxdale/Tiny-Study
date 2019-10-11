@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b42a953-190c-4106-bc7c-00ee2a1adb74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../indeed/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware_spbeen/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware_spbeen/good_ip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/good_ip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware_spbeen/run_scrapy spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/run_scrapy spbeen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middleware_spbeen/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware_spbeen/spiders/ipcheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/spiders/ipcheck.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middleware_spbeen/spiders/spbeen.py" beforeDir="false" afterPath="$PROJECT_DIR$/middleware_spbeen/spiders/spbeen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pexels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rental/rental/spiders/rental.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rental/rental/spiders/rental.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Selenium/Selenium L1-2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../proxy_crawl/proxy_crawl/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../proxy_crawl/proxy_crawl/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../proxy_crawl/proxy_file.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../proxy_crawl/proxy_file.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../django/manageproxyip/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../django/manageproxyip/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +36,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="ProjectId" id="1PLznRZIuWCngPvN08gkIA4C8yI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,7 +44,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../proxy_crawl" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -61,7 +61,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.run_scrapy spbeen">
+    <configuration name="ipcheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="middleware_spbeen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/middleware_spbeen/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middleware_spbeen/spiders/ipcheck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="middlewares" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="middleware_spbeen" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/middleware_spbeen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middleware_spbeen/middlewares.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run_scrapy spbeen" type="PythonConfigurationType" factoryName="Python">
       <module name="middleware_spbeen" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +128,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ipcheck" />
+        <item itemvalue="Python.middlewares" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -95,6 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565184721209</updated>
+      <workItem from="1568339015850" duration="1571000" />
     </task>
     <servers />
   </component>

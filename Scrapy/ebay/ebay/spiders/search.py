@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 from ..items import EbayItem
-
-
 # Lenovo Thinkpad T-series
 # Lenovo Thinkpad E-series
 # Dell Latitude 7-series
@@ -39,7 +37,7 @@ class SearchSpider(scrapy.Spider):
         price_list = response.xpath('//div[@class="s-item__details clearfix"]/div[1]/span/text()').extract()
         second_info = response.xpath('//span[@class="SECONDARY_INFO"]/text()').extract()
         for name, price, sc_info in zip(name_list,price_list, second_info):
-            if float(''.join(price[1].split(','))) > 60 and ( sc_info == 'Refurbished' or sc_info == 'Pre-Owned'):
+            if float(''.join(price[1].split(','))) > 60 or sc_info == 'Refurbished' or sc_info == 'Pre-Owned':
                 item['name'] = name
                 item['price'] = price
                 item['sc_info'] = sc_info

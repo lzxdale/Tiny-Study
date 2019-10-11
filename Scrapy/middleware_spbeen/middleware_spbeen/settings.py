@@ -94,12 +94,10 @@ DOWNLOADER_MIDDLEWARES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-PROXY_IP_POOL = ['54.39.98.137:80',
-'51.79.65.157:3128',
-'54.39.53.104:3128',
-'165.22.238.100:8080',
-'165.22.33.143:8080',
-'67.205.171.99:80',
-'165.22.187.251:8080',
-'67.205.172.239:3128',
-'159.65.181.224:3128']
+path = 'C:\\Users\\81065\\git\\Free_Proxy_Pool\\proxy_crawl\\good_ip.txt'
+file = open(path, 'r')
+k = file.readlines()
+tmp = []
+for i in k:
+    tmp.append(i[:-1])
+PROXY_IP_POOL = tmp
