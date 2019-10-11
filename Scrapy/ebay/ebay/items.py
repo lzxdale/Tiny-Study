@@ -13,4 +13,6 @@ class EbayItem(scrapy.Item):
     name = scrapy.Field()
     price = scrapy.Field()
     sc_info = scrapy.Field()
+    year = scrapy.Field()
+    brand = scrapy.Field()
     pass
